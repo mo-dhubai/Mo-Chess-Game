@@ -10,7 +10,7 @@ of the concepts from the course as made sense, without forcing them in.
 You can play against a friend on the same computer, or against an AI: ChatGPT, Claude, Gemini or DeepSeek. The AI part
 calls the real APIs, so you need an API key for the one you want to play against (more about that below).
 
-Source code: https://github.com/mo-dhubai/Mo-Chess-Game
+Source code: https://github.com/mo-dhubai/Mo-Chess-Game.
 Demo: https://drive.google.com/file/d/1mEpVDXd6Bkc4tdehfAXiIv1pTijRVZ9w/view?usp=sharing
 
 ## How to run it
